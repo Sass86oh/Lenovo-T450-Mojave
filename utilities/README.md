@@ -4,6 +4,12 @@ This folder contains a number of different useful tools I find helpful with sett
 
 #
 
+### Audio Configuration
+
+- Contains 2 separate methods for successfully getting proper system audio functionality with with this configuration. (Credit JCSNIDER for ALC3232 Method and ACIDANTHERA for AppleALC Lilu Plugin)
+
+#
+
 ### HD Graphics 5500
 
 - Different monitor configurations for my personal setup. HIDPI is enabled and working very well. The clarity is very impressive, other tools for configuring proper DVMT options on systems with locked BIOS configurations.
