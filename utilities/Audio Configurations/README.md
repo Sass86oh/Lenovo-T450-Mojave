@@ -6,7 +6,7 @@ Configurations for patching the sound setup on this hackintosh build
 
 ### ALC3232
  
-- JCSNIDER's Files for physically patching AppleHDA.kext in order to produce a patched kernel extension for handling system sound functionality in place of using the stock AppleHDA kext and its included codec files. There are scripts and files present in here which are specifically for devices with ALC3232 codec based hardware and thats what the ThinkPad T450 is based on. This can create a perfect sound configuration for this device. It is a bit difficult to understand.
+- JCSNIDER's method for physically patching AppleHDA.kext in order to produce a patched kernel extension for handling system sound functionality in place of using the stock AppleHDA kext and its included codec files. There are scripts and files present in here which are specifically for devices with ALC3232 codec based hardware and thats what the ThinkPad T450 is based on. This can create a perfect sound configuration for this device. It is a bit difficult to understand.
 
 #
 
